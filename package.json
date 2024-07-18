@@ -1,0 +1,16 @@
+{
+  "name": "cardano-sdk-esm-issue",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "run": "node build/src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cardano-sdk/core": "^0.35.2",
+    "typescript": "5.4.5"
+  }
+}
